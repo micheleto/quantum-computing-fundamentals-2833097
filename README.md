@@ -4,7 +4,7 @@ This is the repository for the LinkedIn Learning course Quantum Computing Fundam
 ### UPDATE: THESE EXAMPLES HAVE BEEN MODIFIED SINCE RECORDING TO ADDRESS API-BREAKING CHANGES IN QISKIT v1.0
 This course was originally recorded in November 2022 using `Qiskit v0.13`. Since then, Qiskit 1.0 was released and included several major changes to the API that broke the prior examples.
 
-The examples in this repo have been updated to utilize the new Qiskit API. This primarily affects the import statements at the beginning of notebooks and the measurements/visualations at the end. These API changes should not impact learning the course's core concepts.
+The examples in this repo have been updated to utilize the new Qiskit API. This primarily affects the import statements at the beginning of notebooks and the measurements/visualizations at the end. These API changes should not impact learning the course's core concepts.
 
 ![Quantum Computing Fundamentals][lil-thumbnail-url] 
 
